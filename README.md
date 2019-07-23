@@ -63,6 +63,8 @@ If you prefer including scrollbar without css styles boundled inline to js file 
 
 ```js
     var ScrollArea = require('react-scrollbar/no-css');
+    or
+    import ScrollArea from 'react-scrollbar/dist/no-css'
 ```
 Then **include scrollArea.css** file into your project.
 
